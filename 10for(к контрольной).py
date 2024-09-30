@@ -1,5 +1,4 @@
-n = int(input("Введите число n: "))
-
+n = int(input("Введите число n: 
 even_divisors = []
 
 for i in range(1, n + 1):
